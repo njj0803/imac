@@ -1,9 +1,9 @@
-package org.nijj.imac.tools;
+package org.nijj.imac.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class TimeTool {
+public class TimeUtil {
 	public String getDateTime() {
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		Date now = new Date();

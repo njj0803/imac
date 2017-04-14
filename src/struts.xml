@@ -10,7 +10,7 @@
     <package name="user" namespace="/admin" extends="struts-default">
         <action name="loginAction" class="org.nijj.imac.actions.UserAction" method="login">
             <result name="success">admin.jsp</result>
-            <result name="error">error.jsp</result>
+            <result name="error">login.html</result>
         </action>
     </package>
     <!-- Add packages here -->

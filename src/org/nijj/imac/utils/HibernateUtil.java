@@ -1,4 +1,4 @@
-package org.nijj.imac.tools;
+package org.nijj.imac.utils;
 
 
 import org.hibernate.SessionFactory;

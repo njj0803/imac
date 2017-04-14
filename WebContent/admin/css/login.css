@@ -122,3 +122,9 @@ hr.hr20 {
     bottom:15px;
     right:15px;
 }
+
+
+#errorLogin {
+    color:red;
+    font-size:16px;
+}

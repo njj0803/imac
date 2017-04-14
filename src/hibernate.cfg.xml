@@ -20,10 +20,9 @@
         <property name="hibernate.format_sql">true</property>
         <!-- 2.3 自动建表  -->
         <property name="hibernate.hbm2ddl.auto">update</property>
-        
-        
+               
         <!-- 3. 加载所有映射 -->
-        <mapping resource="com/yif/a_hello/Employee.hbm.xml"/>
+        <mapping resource="org/nijj/imac/beans/User.hbm.xml"/>
         
     </session-factory>
 </hibernate-configuration>

@@ -1,9 +1,9 @@
-package org.nijj.imac.tools;
+package org.nijj.imac.utils;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class PasswordTool {
+public class PasswordUtil {
 
 	private String convert(byte[] bytes) {
 		String result = "";
