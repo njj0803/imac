@@ -34,5 +34,5 @@ CREATE TABLE `tb_user` (
 -- ----------------------------
 -- Records of tb_user
 -- ----------------------------
-INSERT INTO `tb_user` VALUES ('1', 'njj0803', '123456', '2017-04-14 11:02:00', '倪晶晶', 'njj0803@gmail.com', '18962817998', '1');
-INSERT INTO `tb_user` VALUES ('2', 'test', 'test', '2017-04-06 11:03:02', 'test', 'test@gmail.com', '18962817998', '0');
+INSERT INTO `tb_user` VALUES ('1', 'njj0803', '123456', '2017-04-14 11:02:00', 'njj0803', 'njj0803@gmail.com', '18912345678', '1');
+INSERT INTO `tb_user` VALUES ('2', 'test', 'test', '2017-04-06 11:03:02', 'test', 'test@gmail.com', '18912345678', '0');
